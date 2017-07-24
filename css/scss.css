@@ -1,0 +1,91 @@
+* {
+  padding: 0;
+  margin: 0; }
+
+.header {
+  width: 100%; }
+  .header .topBox {
+    background: #171D2B; }
+    .header .topBox a {
+      display: block;
+      width: 1200px;
+      height: 120px;
+      margin: 0 auto; }
+      .header .topBox a img {
+        width: 100%;
+        height: 100%; }
+  .header .botBox {
+    background: #333; }
+    .header .botBox .mainbav {
+      width: 1200px;
+      height: 40px;
+      margin: 0 auto; }
+      .header .botBox .mainbav .l_nav {
+        list-style: none;
+        float: left; }
+        .header .botBox .mainbav .l_nav a {
+          text-decoration: none;
+          color: #b0b0b0; }
+        .header .botBox .mainbav .l_nav li {
+          float: left;
+          padding: 0 9px 0 8px;
+          margin-top: 14px;
+          border-right: 1px solid #b0b0b0;
+          line-height: 12px; }
+        .header .botBox .mainbav .l_nav .list1 {
+          padding-left: 0; }
+        .header .botBox .mainbav .l_nav .list2 {
+          border-right: none; }
+      .header .botBox .mainbav .r_nav {
+        float: right; }
+        .header .botBox .mainbav .r_nav ul {
+          list-style: none;
+          float: left; }
+          .header .botBox .mainbav .r_nav ul a {
+            text-decoration: none;
+            color: #b0b0b0; }
+          .header .botBox .mainbav .r_nav ul li {
+            float: left;
+            padding: 0 9px 0 8px;
+            border-right: 1px solid #b0b0b0;
+            margin-top: 14px;
+            line-height: 12px; }
+          .header .botBox .mainbav .r_nav ul .login {
+            padding-left: 0; }
+          .header .botBox .mainbav .r_nav ul .news {
+            border-right: none;
+            padding: 0 25px 0 12px; }
+      .header .botBox .mainbav .buyCar {
+        float: left;
+        width: 120px;
+        height: 40px;
+        text-decoration: none;
+        color: #b0b0b0;
+        margin-top: 13px;
+        line-height: 12px; }
+
+.subnav .logo-box {
+  width: 1200px;
+  height: 100px;
+  margin: 0 auto; }
+  .subnav .logo-box h1 {
+    float: left;
+    margin-right: 80px;
+    margin-top: 22px; }
+  .subnav .logo-box .logo_one {
+    float: left;
+    margin-top: 22px;
+    margin-right: 78px; }
+  .subnav .logo-box ul {
+    list-style: none; }
+    .subnav .logo-box ul a {
+      text-decoration: none;
+      color: #333; }
+    .subnav .logo-box ul li {
+      float: left;
+      margin-top: 44px;
+      padding-left: 14px; }
+    .subnav .logo-box ul .lists1 {
+      padding-left: 0; }
+
+/*# sourceMappingURL=scss.css.map */
